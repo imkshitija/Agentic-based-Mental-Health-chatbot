@@ -1,2 +1,1 @@
-# Agentic-based-Mental-Health-chatbot
-Your go to mental health companion
+# Agentic based Mental Health chatbot using Langchain workflows
